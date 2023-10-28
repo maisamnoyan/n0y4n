@@ -9,7 +9,8 @@ Currently, I am doing my Master's in Information Assurance and creating content 
 
 ## Certifications
 * eLearn Security Junior Penetration Tester (eJPT)
-* Certified in Cybersecurity (CC) 
+* Certified in Cybersecurity (CC)
+* Google Cybersecurity 
 
 ## Skills: 
 * Penetration Testing
