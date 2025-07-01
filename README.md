@@ -8,6 +8,8 @@ Currently, I am doing my Master's in Information Assurance and creating content 
 * :man_student: BS in Information Technology - Concentration in cybersecurity
 
 ## Certifications
+* CompTIA Security+
+* AWS Certified Cloud Practitioner
 * eLearn Security Junior Penetration Tester (eJPT)
 * Certified in Cybersecurity (CC)
 * Google Cybersecurity 
